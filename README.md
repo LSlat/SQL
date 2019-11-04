@@ -1,3 +1,3 @@
-# SQL, utilizing PostgreSql
-Using the data in the CSV files, design (make schema) and create tables (import the data) to a database.
+# SQL, utilizing PostgreSql (also python3/Jupyter Notebook)
+Using the data in the CSV files, design schema, create tables and a database.
 Query the data to answer given questions.
